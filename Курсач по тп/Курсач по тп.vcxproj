@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <ProjectGuid>{9BEF7D24-0C73-4FBC-9D1C-A830BCF98A9A}</ProjectGuid>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <Keyword>ManagedCProj</Keyword>
+    <RootNamespace>Курсачпотп</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Add_client_Form.cpp" />
+    <ClCompile Include="Add_detals_Form.cpp" />
+    <ClCompile Include="Add_manager_Form.cpp" />
+    <ClCompile Include="Add_mechanic_Form.cpp" />
+    <ClCompile Include="Add_repair_Form.cpp" />
+    <ClCompile Include="Add_request_Form.cpp" />
+    <ClCompile Include="admin_menu.cpp" />
+    <ClCompile Include="authorization.cpp" />
+    <ClCompile Include="Client.cpp" />
+    <ClCompile Include="Clients_list.cpp" />
+    <ClCompile Include="Client_menu.cpp" />
+    <ClCompile Include="Connection.cpp" />
+    <ClCompile Include="Detal.cpp" />
+    <ClCompile Include="Detals_list.cpp" />
+    <ClCompile Include="Functions.cpp" />
+    <ClCompile Include="main_menu.cpp" />
+    <ClCompile Include="Manager.cpp" />
+    <ClCompile Include="Mechanic.cpp" />
+    <ClCompile Include="Mechanic_menu.cpp" />
+    <ClCompile Include="Repair.cpp" />
+    <ClCompile Include="Repairs_list.cpp" />
+    <ClCompile Include="Request.cpp" />
+    <ClCompile Include="Staff_list.cpp" />
+    <ClCompile Include="Update_request_Form.cpp" />
+    <ClCompile Include="Users.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Add_client_Form.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Add_detals_Form.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Add_manager_Form.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Add_mechanic_Form.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Add_repair_Form.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Add_request_Form.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="admin_menu.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="authorization.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Client.h" />
+    <ClInclude Include="Clients_list.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Client_menu.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Connection.h" />
+    <ClInclude Include="Detal.h" />
+    <ClInclude Include="Detals_list.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Functions.h" />
+    <ClInclude Include="main_menu.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Manager.h" />
+    <ClInclude Include="Mechanic.h" />
+    <ClInclude Include="Mechanic_menu.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Repair.h" />
+    <ClInclude Include="Repairs_list.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Request.h" />
+    <ClInclude Include="Staff_list.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Update_request_Form.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Users.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Add_client_Form.resx">
+      <DependentUpon>Add_client_Form.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_detals_Form.resx">
+      <DependentUpon>Add_detals_Form.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_manager_Form.resx">
+      <DependentUpon>Add_manager_Form.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_mechanic_Form.resx">
+      <DependentUpon>Add_mechanic_Form.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_repair_Form.resx">
+      <DependentUpon>Add_repair_Form.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_request_Form.resx">
+      <DependentUpon>Add_request_Form.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_menu.resx">
+      <DependentUpon>admin_menu.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="authorization.resx">
+      <DependentUpon>authorization.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clients_list.resx">
+      <DependentUpon>Clients_list.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Client_menu.resx">
+      <DependentUpon>Client_menu.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detals_list.resx">
+      <DependentUpon>Detals_list.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_menu.resx">
+      <DependentUpon>main_menu.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mechanic_menu.resx">
+      <DependentUpon>Mechanic_menu.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repairs_list.resx">
+      <DependentUpon>Repairs_list.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff_list.resx">
+      <DependentUpon>Staff_list.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_request_Form.resx">
+      <DependentUpon>Update_request_Form.h</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
