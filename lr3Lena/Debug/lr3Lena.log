@@ -1,0 +1,9 @@
+﻿  lr3Lena.cpp
+C:\Users\a8720\source\repos\lr3Lena\lr3Lena\f.h(26,6): warning C4101: item: неиспользованная локальная переменная
+C:\Users\a8720\source\repos\lr3Lena\lr3Lena\Reader.h(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr3Lena\lr3Lena\Reader.h(169,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr3Lena\lr3Lena\Reader.h(209,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr3Lena\lr3Lena\Reader.h(233,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr3Lena\lr3Lena\Sort.h(24): warning C4715: sort1<int>: значение возвращается не при всех путях выполнения
+C:\Users\a8720\source\repos\lr3Lena\lr3Lena\Sort.h(44): warning C4715: sort2<int>: значение возвращается не при всех путях выполнения
+  lr3Lena.vcxproj -> C:\Users\a8720\source\repos\lr3Lena\Debug\lr3Lena.exe

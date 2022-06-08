@@ -1,0 +1,7 @@
+﻿  Train.cpp
+C:\Users\a8720\source\repos\lr3Dasha\lr3Dasha\Train.cpp(44,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr3Dasha\lr3Dasha\Train.cpp(201,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr3Dasha\lr3Dasha\Train.cpp(241,20): warning C4018: <: несоответствие типов со знаком и без знака
+  lr3Dasha.cpp
+  Создание кода...
+  lr3Dasha.vcxproj -> C:\Users\a8720\source\repos\lr3Dasha\Debug\lr3Dasha.exe

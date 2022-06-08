@@ -1,0 +1,25 @@
+#include "lab_01.h"
+#include <iostream>
+#include <chrono>
+
+
+
+int Parse(const std::string& file_path) {
+
+    Lexer lex(file_path.c_str());
+    auto table = lex.ScanCode();
+
+
+    for (auto i = 0; i < table.size(); i++) {
+        std::cout  << table[i].GetName() << "      " << "Number token: " << table[i].GetToken() << "      " << "Line: " << table[i].GetLine() << std::endl;
+    }
+
+    Syntax syntx(std::move(table));
+    auto tree = syntx.ParseCode();
+    if (tree == nullptr) {
+        std::cerr << "<E> Incorrect syntax tree, abort!" << std::endl;
+        return -EXIT_FAILURE;
+    }
+
+    return EXIT_SUCCESS;
+}
