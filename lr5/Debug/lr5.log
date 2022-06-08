@@ -1,0 +1,4 @@
+﻿  lr5.cpp
+C:\Users\a8720\source\repos\lr5\lr5\Player.h(34,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr5\lr5\Chess.h(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+  lr5.vcxproj -> C:\Users\a8720\source\repos\lr5\Debug\lr5.exe

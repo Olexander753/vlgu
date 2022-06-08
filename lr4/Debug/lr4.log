@@ -1,0 +1,6 @@
+﻿  lr4.cpp
+C:\Users\a8720\source\repos\lr4\lr4\Attackers.h(41,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr4\lr4\Attackers.h(90,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr4\lr4\Attackers.h(92,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr4\lr4\lr4.cpp(19,20): warning C4018: <: несоответствие типов со знаком и без знака
+  lr4.vcxproj -> C:\Users\a8720\source\repos\lr4\Debug\lr4.exe
