@@ -1,0 +1,13 @@
+C:\Users\a8720\source\repos\Zoo\Zoo\Debug\Zoo.vcxproj.AssemblyReference.cache
+C:\Users\a8720\source\repos\Zoo\Zoo\Debug\Zoo.Log_In_Form.resources
+C:\Users\a8720\source\repos\Zoo\Zoo\Debug\Zoo.vcxproj.GenerateResource.cache
+C:\Users\a8720\source\repos\Zoo\Zoo\Debug\Zoo.Register_Form.resources
+C:\Users\a8720\source\repos\Zoo\Zoo\Debug\Zoo.Menu_Visitor_Form.resources
+C:\Users\a8720\source\repos\Zoo\Zoo\Debug\Zoo.Menu_Director_Form.resources
+C:\Users\a8720\source\repos\Zoo\Zoo\Debug\Zoo.Menu_Zoo_Form.resources
+C:\Users\a8720\source\repos\Zoo\Zoo\Debug\Zoo.Add_Employee_Form.resources
+C:\Users\a8720\source\repos\Zoo\Zoo\Debug\Zoo.Add_Food_Form.resources
+C:\Users\a8720\source\repos\Zoo\Zoo\Debug\Zoo.Update_Employee_Form.resources
+C:\Users\a8720\source\repos\Zoo\Zoo\Debug\Zoo.Menu_Employee_Form.resources
+C:\Users\a8720\source\repos\Zoo\Zoo\Debug\Zoo.Add_Animal_Form.resources
+C:\Users\a8720\source\repos\Zoo\Zoo\Debug\Zoo.Update_Animal_Form.resources
