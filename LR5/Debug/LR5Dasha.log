@@ -1,0 +1,5 @@
+﻿  LR5Dasha.cpp
+C:\Users\a8720\source\repos\LR5Dasha\LR5Dasha\Tovar.h(30,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\LR5Dasha\LR5Dasha\Baze.h(17,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\LR5Dasha\LR5Dasha\Baze.h(27,21): warning C4018: <: несоответствие типов со знаком и без знака
+  LR5Dasha.vcxproj -> C:\Users\a8720\source\repos\LR5Dasha\Debug\LR5Dasha.exe

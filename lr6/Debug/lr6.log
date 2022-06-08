@@ -1,0 +1,4 @@
+﻿  lr6.cpp
+C:\Users\a8720\source\repos\lr6\lr6\lr6.cpp(143,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr6\lr6\lr6.cpp(153,20): warning C4018: <: несоответствие типов со знаком и без знака
+  lr6.vcxproj -> C:\Users\a8720\source\repos\lr6\Debug\lr6.exe
