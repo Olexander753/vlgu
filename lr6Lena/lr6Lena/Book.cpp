@@ -1,9 +1,0 @@
-#include "Book.h"
-
-//////////////////////////////////////////////////////////////////////
-// Construction/Destruction
-//////////////////////////////////////////////////////////////////////
-
-Book::Book(const std::string& title, double price, const std::string& author) : _title(title), _price(price), _author(author) {}
-
-Book::~Book() {}
