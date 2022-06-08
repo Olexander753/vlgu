@@ -1,0 +1,9 @@
+﻿  Geo_map.cpp
+  ItemFactory.cpp
+  Lab_assistant.cpp
+  UniversityLibraryStrategy.cpp
+  lr6Dasha.cpp
+C:\Users\a8720\source\repos\lr6Dasha\lr6Dasha\lr6Dasha.cpp(143,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr6Dasha\lr6Dasha\lr6Dasha.cpp(153,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  lr6Dasha.vcxproj -> C:\Users\a8720\source\repos\lr6Dasha\Debug\lr6Dasha.exe
