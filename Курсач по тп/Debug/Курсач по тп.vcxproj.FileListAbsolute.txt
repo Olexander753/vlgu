@@ -1,0 +1,18 @@
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсач по тп.vcxproj.AssemblyReference.cache
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.admin_menu.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.authorization.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.main_menu.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсач по тп.vcxproj.GenerateResource.cache
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.Add_client_Form.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.Add_detals_Form.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.Add_repair_Form.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.Clients_list.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.Client_menu.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.Detals_list.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.Mechanic_menu.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.Repairs_list.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.Staff_list.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.Add_request_Form.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.Update_request_Form.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.Add_manager_Form.resources
+C:\Users\a8720\source\repos\Курсач по тп\Курсач по тп\Debug\Курсачпотп.Add_mechanic_Form.resources
