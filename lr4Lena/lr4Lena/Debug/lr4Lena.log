@@ -1,0 +1,7 @@
+﻿  lr4Lena.cpp
+C:\Users\a8720\source\repos\lr4Lena\lr4Lena\Reader.h(68,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr4Lena\lr4Lena\Reader.h(96,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr4Lena\lr4Lena\Reader.h(136,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr4Lena\lr4Lena\Reader.h(160,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\a8720\source\repos\lr4Lena\lr4Lena\lr4Lena.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+  lr4Lena.vcxproj -> C:\Users\a8720\source\repos\lr4Lena\Debug\lr4Lena.exe
